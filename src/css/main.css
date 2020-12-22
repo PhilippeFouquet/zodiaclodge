@@ -46,6 +46,7 @@
 @import './imports/_gallery';
 @import './imports/_image-gallery-icon.css';
 @import './imports/_image-gallery.scss';
+@import './imports/_photoswipe';
 @import './imports/_floats';
 @import './imports/_font-style';
 @import './imports/_font-weight';

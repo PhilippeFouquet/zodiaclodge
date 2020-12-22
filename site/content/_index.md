@@ -1,6 +1,6 @@
 ---
 title: "Budget accomodation in Glebe"
-subtitle: Our rooms start at $39     Call 0418 621 871
+subtitle: Our rooms start at $49     Call Victorio 0418 621 871
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Zodiac Lodge?
