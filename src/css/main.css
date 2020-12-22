@@ -43,6 +43,9 @@
 @import './imports/_clears';
 @import './imports/_display';
 @import './imports/_flexbox';
+@import './imports/_gallery';
+@import './imports/_image-gallery-icon.css';
+@import './imports/_image-gallery.scss';
 @import './imports/_floats';
 @import './imports/_font-style';
 @import './imports/_font-weight';
