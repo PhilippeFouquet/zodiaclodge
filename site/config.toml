@@ -15,4 +15,3 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 address = "284 Bridge rd, Glebe, NSW, 2037"
 mobile = "+61418621871"
 
-GOOGLEMAPS_KEY="AIzaSyB-I4_UOlxSErWOGA0LAssqTdwX5pHCIfc"
