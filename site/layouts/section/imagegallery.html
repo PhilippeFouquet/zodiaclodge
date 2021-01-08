@@ -1,5 +1,25 @@
 {{ define "main" }}
 
 
+<!--Google map-->
+<div id="map-container-google-1" class="ind-mapa">
+    <iframe class="resp-iframe" width="100%" frameborder="0" scrolling="no" marginheight="10" marginwidth="10"
+        src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=284%20Bridge%20Rd,%20Forest%20Lodge%20NSW%202037+(zodiac%20lodge)&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=B&amp;output=embed">
+    </iframe>
+</div>
+<!--Google Maps-->
+{{ with .Params.main }}
+<div class="ph3 pv3 mw7 center">
+    <div class="mw6 ph3 mb3">
+        <h3 class="f3 b lh-title mb2">{{ .heading }}</h3>
+    </div>
+    <div class="mw6 ph3 mb3">
+        <h5 class="f6 mb2">{{ .description }}</h5>
+    </div>
+</div>
+
+<!-- Image grid -->
+{{ partial "image-gallery" . }}
+{{ end }}
 
 {{end}}

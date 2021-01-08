@@ -7,7 +7,6 @@ contact_entries:
   - heading: Working hours
     text: "Monday – Sunday: 9AM – 7PM"
 ---
-
 We’d love to get in touch with you and prepare your trip and
 accomodate your short or long stay.
 

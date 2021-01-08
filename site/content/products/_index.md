@@ -1,5 +1,5 @@
 ---
-title: Breezy
+title: Zodiac Lodge and Breezy Cafe
 type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer

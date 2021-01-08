@@ -1,6 +1,6 @@
 ---
 title: "Budget accomodation in Glebe"
-subtitle: Our rooms start at $49     Call Victorio 0418 621 871
+subtitle: Our rooms start at $49     Call Victor 0418 621 871
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Zodiac Lodge?
@@ -8,6 +8,5 @@ blurb:
 intro:
     heading: "What we offer"
     text: "Zodiac Lodge offers 19 comfortable rooms including singles, doubles and twins in a three-level, charming history property. Close to many recreational activities, you have access to Glebe which is one of the biggest tourist destinations in Sydney. We speak English, Italian, Spanish, German and Portugese."
-
 ---
 

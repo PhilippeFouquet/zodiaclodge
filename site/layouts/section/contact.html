@@ -1,23 +1,31 @@
 {{ define "main" }}
 
-<div class="ph3 bg-off-white">
-	<div class="center mw6 pv3">
+<div class="mw6 center ph3 pv4">
+	<!--Google map-->
+	<div id="map-container-google-1" class="ind-mapa_small">
+		<iframe class="resp-iframe" width="100%" frameborder="0"
+			src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=284%20Bridge%20Rd,%20Forest%20Lodge%20NSW%202037+(zodiac%20lodge)&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=B&amp;output=embed">
+		</iframe>
+	</div>
+	<!--Google Maps-->
 
-		<img src="{{ .Params.logo }}" alt="" class="db w4 center pv4">
+	<div class="ph3 bg-off-white">
+		<div class="center mw6 pv3">
 
-		{{ .Content }}
+			{{ .Content }}
 
-		<div class="flex-ns mb3">
-			{{ range .Params.contact_entries }}
-			<div>
-				<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
-				<p>{{ .text }}</p>
+			<div class="flex-ns mb3">
+				{{ range .Params.contact_entries }}
+				<div>
+					<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
+					<p>{{ .text }}</p>
+				</div>
+				{{ end }}
 			</div>
-			{{ end }}
+
+			{{ partial "contact-form" . }}
+
 		</div>
-
-		{{ partial "contact-form" . }}
-
 	</div>
 </div>
 

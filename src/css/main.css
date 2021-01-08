@@ -44,6 +44,7 @@
 @import './imports/_display';
 @import './imports/_flexbox';
 @import './imports/_gallery';
+@import './imports/_map';
 @import './imports/_image-gallery-icon.css';
 @import './imports/_image-gallery.scss';
 @import './imports/_photoswipe';

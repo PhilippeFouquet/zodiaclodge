@@ -7,3 +7,12 @@ title = "Homepage"
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+
+#################### default parameters ################################
+[params]
+
+# contact info
+address = "284 Bridge rd, Glebe, NSW, 2037"
+mobile = "+61418621871"
+
+GOOGLEMAPS_KEY="AIzaSyB-I4_UOlxSErWOGA0LAssqTdwX5pHCIfc"
