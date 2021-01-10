@@ -3,9 +3,9 @@ title: 'University of Sydney'
 date: 2020-01-04T15:04:10.000Z
 description: >-
   We are located 5mn walk or 1mn bycicle ride from Sydney prestigeous university. Other university like UTS are within walking distance as well.
+image: /img/university-of-sydney.jpg
 ---
 
-...
 
 ## A little history
 
