@@ -22,9 +22,22 @@ main:
     alt: A green cup of a coffee on a wooden table
     image: /img/products-grid2.jpg
 testimonials:
-  - author: Calum, Australia (Dec 2020)
+  - author: Ruben Cabrera (Sep 2020)
+    quote: >-
+      excellent service and very good price.
+  - author: Calum (Dec 2020)
     quote: >-
       Nice place, good location.
+  - author: Lina, Borås, Sweden (March 2020)
+    quote: >-
+      Great location, lovely staff and cozy room!! A perfect place if you’re traveling alone, or looking for a place to stay long term!
+  - author: Elisabeth, Adelaide, Australia (February 2020)
+    quote: >-
+      Great place for young students/professionals who need long term accommodation.
+  - author: Kathleen, Melbourne, Australia (December 2019)
+    quote: >-
+      Good location, very convenient to go to Sydney University.
+
 ---
 
 

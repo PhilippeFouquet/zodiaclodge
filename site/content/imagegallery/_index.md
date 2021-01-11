@@ -34,16 +34,13 @@ main:
     image: /img/room-11-3.jpg
   image7:
     alt: A green cup of a coffee on a wooden table
+    image: /img/room-balcony.jpg
+  image8:
+    alt: A green cup of a coffee on a wooden table
+    image: /img/room-14-1.jpg
+  image9:
+    alt: A green cup of a coffee on a wooden table
     image: /img/room-9-2.jpg
-    
-testimonials:
-  - author: Ruben Cabrera (Sep 2020)
-    quote: >-
-      excellent service and very good price.
-  - author: Calum (Dec 2020)
-    quote: >-
-      Nice place, good location.
-
 ---
 
 ## Features
