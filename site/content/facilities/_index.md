@@ -8,10 +8,12 @@ description: >-
   in the same building you have a great cafe for lunch and more..
   
 main:
-  heading: Zodiac Lodge and Breezy Cafe within your budget
+  heading: Zodiac Lodge within budget
   description: >-
     Recently renovated, Zodiac Lodge offers a safe, clean and organised environment with very comfortable arrangements.
     All rooms are fully furnished with television, refrigerator and WiFi internet access; some rooms have balconies and ensuite. 
+  otherdescription: >-
+    In addition, we offer: Laundry facilities (washer, dryer and ironing boards); Lounge room; Patio & balcony areas.
   rooms: >-
     In addition, we offer:
   image1:

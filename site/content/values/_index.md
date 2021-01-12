@@ -2,7 +2,8 @@
 title: "Pricing"
 image: /img/pricing-head.jpg
 rateTitle: Daily Rates ($AUD)
-rateMessage: Long term rates are available at lower prices - please enquire. Minimum stay is 3 days.
+rateMessage: Long term rates are available at lower prices - please enquire.
+minimumStay: Minimum stay is 3 days.
 values:
   - heading: "Single room"
     text: from $49 

@@ -4,9 +4,10 @@
 
 <div class="center mw6 pv3">
   <h3 class="f4 b lh-title mb1">{{.Params.rateTitle}}</h3>
-  <p>{{.Params.rateMessage}}</p>
+  <h4 class="f8 mb0">{{.Params.rateMessage}}</h4>
+  <h4 class="f8 mb0">{{.Params.minimumStay}}</h4>
 </div>
-<div class="mw8 center ph6 pt4">
+<div class="mw8 center ph6 pt2">
 
   {{ range $index, $element := .Params.values }}
   {{ if modBool $index 2 }}

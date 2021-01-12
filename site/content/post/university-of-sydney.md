@@ -9,6 +9,6 @@ image: /img/university-of-sydney.jpg
 
 ## A little history
 
-The University of Sydney is one of the best universities in Australia, and is consistently ranked in the top 50 universities in the world. Start your journey here.
+The University of Sydney (USYD, or informally Sydney Uni) is an Australian public research university in Sydney, Australia. Founded in 1850, it is Australia's first university and is regarded as one of the world's leading universities. The university is known as one of Australia's six sandstone universities. Its campus, spreading across the inner-city suburbs of Camperdown and Darlington, is ranked in the top 10 of the world's most beautiful universities
 
 
