@@ -8,9 +8,9 @@ contact_entries:
     text: "Monday – Sunday: 9AM – 7PM"
 ---
 We’d love to get in touch with you and prepare your trip and
-accomodate your short or long stay.
+accomodate your short (minimum 3 days) or long stay.
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
 You can also use the form below for any room
-availability, specials discount. Don’t be shy, drop us a line!
+availability, specials. Don’t be shy, drop us a line!

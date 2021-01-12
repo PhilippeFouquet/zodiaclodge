@@ -8,7 +8,7 @@ description: >-
   in the same building you have a great cafe for lunch and more..
 
 main:
-  heading: Zodiac and Breezy within your budget
+  heading: Zodiac Lodge and Breezy Cafe within your budget
   description: >
     Zodiac lodge is conveniently placed in the heart of Glebe and Forest lodge lifestyle
     suburbs. There are so many places to visit, to start with Breezy Cafe within our 
@@ -22,12 +22,12 @@ main:
     alt: A green cup of a coffee on a wooden table
     image: /img/products-grid2.jpg
 testimonials:
-  - author: Ruben Cabrera (Sep 2020)
-    quote: >-
-      excellent service and very good price.
   - author: Calum (Dec 2020)
     quote: >-
       Nice place, good location.
+  - author: Ruben Cabrera (Sep 2020)
+    quote: >-
+      excellent service and very good price.      
   - author: Lina, Borås, Sweden (March 2020)
     quote: >-
       Great location, lovely staff and cozy room!! A perfect place if you’re traveling alone, or looking for a place to stay long term!
