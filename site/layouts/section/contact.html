@@ -14,15 +14,22 @@
 
 			{{ .Content }}
 
-			<div class="flex-ns mb3">
+			<div class="flex-ns mb2">
 				{{ range .Params.contact_entries }}
 				<div>
-					<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
-					<p>{{ .text }}</p>
+					<h4 class="f5 b lh-title mb2 primary">{{ .heading }}</h4>
+					<h5 class="f6 fw1 mw5 mb2">{{ .text }}</h5>
 				</div>
 				{{ end }}
 			</div>
-
+			<div class="flex-ns mb2">
+				{{ range .Params.info_entries }}
+				<div>
+					<h4 class="f5 b lh-title mb2 primary">{{ .heading }}</h4>
+					<h5 class="f6 fw1 mw5 mb2">{{ .text }}</h5>
+				</div>
+				{{ end }}
+			</div>
 			{{ partial "contact-form" . }}
 
 		</div>

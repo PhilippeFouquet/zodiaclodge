@@ -22,12 +22,12 @@ main:
     alt: A green cup of a coffee on a wooden table
     image: /img/products-grid2.jpg
 testimonials:
-  - author: Calum (Dec 2020)
+  - author: Calum, London, UK (Dec 2020)
     quote: >-
       Nice place, good location.
-  - author: Ruben Cabrera (Sep 2020)
+  - author: Ruben, Sydney, Australia (Sep 2020)
     quote: >-
-      excellent service and very good price.      
+      Excellent service and very good price.      
   - author: Lina, Borås, Sweden (March 2020)
     quote: >-
       Great location, lovely staff and cozy room!! A perfect place if you’re traveling alone, or looking for a place to stay long term!

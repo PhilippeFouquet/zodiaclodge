@@ -4,13 +4,13 @@ logo: ""
 contact_entries:
   - heading: Location
     text: "284 Bridge Rd, Glebe, NSW, 2037, Australia"
-  - heading: Working hours
-    text: "Monday – Sunday: 9AM – 7PM"
+  - heading: Email
+    text: info@zodiaclodge.com.au
+info_entries:
+  - heading: Reception hours
+    text: "10AM – 2PM and 7am - 9pm, 7 days"
 ---
-We’d love to get in touch with you and prepare your trip and
-accomodate your short (minimum 3 days) or long stay.
+We'd love you to get in touch with us to help prepare your stay. Please contact us via phone, email, or simply fill in the short form below. Minimum stay is 3 days.
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-You can also use the form below for any room
-availability, specials. Don’t be shy, drop us a line!
+!
