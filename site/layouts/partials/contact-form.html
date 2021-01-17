@@ -2,7 +2,16 @@
 <div class="mb4">
   <h4 class="f3 b lh-title mb3 tc">Enquiry about our rooms</h4>
 
-  <form action="">
+   <!-- A little help for the Netlify post-processing bots -->
+   <form name="contact" netlify netlify-honeypot="bot-field" hidden>
+    <input type="text" name="name" />
+    <input type="email" name="email" />
+    <input type="roomtype" name="roomtype" />
+    <textarea name="message"></textarea>
+  </form> 
+
+  <form action="" method="post">
+    <input type="hidden" name="form-name" value="contact" />
     <div class="flex-l mhn1-l">
       <!-- Name -->
       <div class="ph1-l w-50-l">
@@ -26,17 +35,6 @@
           <label for="roomtype">Room type</label>
         </fieldset>
       </div>
-      <!--
-      <div class="ph1-l w-50-l">
-        <select id="roomtype" name="roomtype" class="wrapper-dropdown">
-          <option value="">--Please choose an option--</option>
-          <option value="single-room">Single</option>
-          <option value="double-room">double</option>
-          <option value="twins-room">Twins</option>
-        </select>
-        <label for="roomtype">Room type</label>
-      </div>
-    -->
     </div>
 
     <!-- Message -->

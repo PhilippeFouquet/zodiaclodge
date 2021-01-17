@@ -13,7 +13,7 @@ main:
     Recently renovated, Zodiac Lodge offers a safe, clean and organised environment with very comfortable arrangements.
     All rooms are fully furnished with television, refrigerator and WiFi internet access; some rooms have balconies and ensuite. 
   otherdescription: >-
-    In addition, we offer: Laundry facilities (washer, dryer and ironing boards); Lounge room; Patio & balcony areas.
+    In addition, we offer: fully equipped kitchen with dining area, laundry facilities (washer, dryer and ironing boards); Lounge room; Patio & balcony areas.
   rooms: >-
     In addition, we offer:
   image1:
