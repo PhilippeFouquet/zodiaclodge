@@ -1,7 +1,7 @@
 ---
 title: Zodiac Lodge and Breezy Cafe
 type: reviews
-image: /img/products-jumbotron.jpg
+image: /img/products-jumbotron.webp
 heading: What we offer
 description: >-
   Zodiac Lodge is the ultimate hotel in Glebe for affordable long stay
@@ -17,10 +17,10 @@ main:
     Breezy is open for early breakfast and lunch everyday. 
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/balcony.jpg
+    image: /img/balcony.webp
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/products-grid2.webp
 testimonials:
   - author: Calum, London, UK (Dec 2020)
     quote: >-

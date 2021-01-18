@@ -3,7 +3,7 @@ title: 'Glebe market'
 date: 2021-01-05T10:00:10.000Z
 description: >-
   Glebe vibrant market is open every Saturday and brings together Sydney siders. It is famous for arts and crafts shops. Bargain hunters seek clothing and gifts at a bargain price. 
-image: /img/glebe-market.jpg
+image: /img/glebe-market.webp
 ---
 
 

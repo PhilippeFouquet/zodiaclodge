@@ -1,7 +1,7 @@
 ---
 title: "Budget accomodation in Glebe"
 subtitle: Affordable room prices starting from only AU$49
-image: /img/home-jumbotron.jpg
+image: /img/home-jumbotron.webp
 blurb:
     heading: Zodiac Lodge is part of inner city Sydney vibe and offers quality accomodation at budget prices in a clean, recently renovated Victorian property.
 intro:
