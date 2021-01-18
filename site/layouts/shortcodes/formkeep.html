@@ -1,0 +1,15 @@
+<!-- more info at https://formkeep.com/guides/contact-form-hugo -->
+{{ $id := default "exampletoken" (.Get 0) }}{{ $button_name := default "Enquire" (.Get 1) }}{{ $redirect := .Get 2 }}
+<form accept-charset="UTF-8" action="https://formkeep.com/f/{{ $id }}" method="POST">
+  <input type="hidden" name="utf8" value="✓">
+  {{ if $redirect }}<input type="hidden" name="_redirect_url" value="{{ $redirect }}"> {{ end }}
+  <input type="date" class="w-100  w-25-ns" required name="date" placeholder="date">
+  <input type="email" class="w-100 w-25-ns" required  name="email" placeholder="email">
+  <input list="roomtype" class="w-100 w-20-ns"  required name="room" placeholder="room type">
+  <datalist id="roomtype">
+    <option value="Single room">
+    <option value="Double room">
+    <option value="Twins room">
+  </datalist>
+  <button type="submit"  class="btn w-100 w-auto-ns raise">{{ $button_name }}</button>
+</form>    

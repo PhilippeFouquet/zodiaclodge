@@ -4,6 +4,7 @@ image: /img/pricing-head.jpg
 rateTitle: Daily Rates ($AUD)
 rateMessage: Long term rates (minimum stay is 3 days) are available at lower prices.
 minimumStay: Room service includes free Wifi, free weekly linen replacement for long term stays (cleaning fees may apply).
+
 values:
   - heading: "Single room"
     text: from $49 
@@ -15,3 +16,4 @@ values:
     text: from $69 
     imageUrl: "/img/room-17-1.jpg"
 ---
+

@@ -16,22 +16,27 @@
       <!-- Name -->
       <div class="ph1-l w-50-l">
         <fieldset>
-          <input type="text" id="name" name="name" placeholder="Name" class="w-100 mb2">
+          <input type="text" id="name" name="name" required placeholder="Name" class="w-100 mb2">
           <label for="name">Name</label>
         </fieldset>
       </div>
       <!-- Email -->
       <div class="ph1-l w-50-l">
         <fieldset>
-          <input type="email" id="email" name="email" placeholder="Email" class="w-100 mb2">
+          <input type="email" id="email" name="email" required placeholder="Email" class="w-100 mb2">
           <label for="email">Email</label>
         </fieldset>
       </div>
 
-      <!-- Email -->
+      <!-- Room Type -->
       <div class="ph1-l w-50-l">
         <fieldset>
-          <input type="roomtype" id="roomtype" name="roomtype" placeholder="Single" class="w-100 mb2">
+          <datalist id="roomtype">
+            <option value="Single room">
+            <option value="Double room">
+            <option value="Twins room">
+          </datalist>
+          <input list="roomtype" id="roomtype" name="roomtype" placeholder="" required class="w-100 mb2">
           <label for="roomtype">Room type</label>
         </fieldset>
       </div>
@@ -39,7 +44,7 @@
 
     <!-- Message -->
     <fieldset>
-      <textarea id="message" name="message" placeholder="Your message" rows="8" cols="80" class="w-100"></textarea>
+      <textarea id="message" name="message" placeholder="Your message" required  rows="8" cols="80" class="w-100"></textarea>
       <label for="message">Your message</label>
     </fieldset>
     <!-- Button -->

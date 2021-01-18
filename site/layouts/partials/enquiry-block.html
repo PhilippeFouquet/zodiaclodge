@@ -1,0 +1,30 @@
+<!-- Enquiry Block -->
+<div class="mb3">
+    <h4 class="f6 mb2 b lh-title tc">Please select a date, your email and room type before clicking enquire.</h4>
+  
+     <!-- A little help for the Netlify post-processing bots -->
+     <form name="contact" netlify netlify-honeypot="bot-field" hidden>
+      <input type="date" name="date" />
+      <input type="email" name="email" />
+      <input type="roomtype" name="roomtype" />
+    </form> 
+  
+    <form action="" method="post">
+      <input type="hidden" name="form-name" value="contact" />
+
+      <input type="date" class="w-100 w-25-ns" required name="date" placeholder="date">
+      <input type="email" class="w-100 w-25-ns" required  name="email" placeholder="email">
+      <input list="roomtype" class="w-100 w-20-ns mb2"  required name="roomtype" placeholder="room type">
+      <datalist id="roomtype">
+        <option value="Single room">
+        <option value="Double room">
+        <option value="Twins room">
+      </datalist>
+      
+
+      <!-- Button -->
+      <div class="tc">
+        <button type="submit" class="btn w-100 w-auto-ns raise">Enquire</button>
+      </div>
+    </form>
+  </div>
