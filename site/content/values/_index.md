@@ -12,7 +12,7 @@ values:
   - heading: "Double room"
     text: from $59 
     imageUrl: "/img/room-12-1.webp"
-  - heading: "Twins room"
+  - heading: "Twin room"
     text: from $69 
     imageUrl: "/img/room-17-1.webp"
 ---
