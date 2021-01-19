@@ -1,6 +1,6 @@
 <!-- Enquiry Block -->
 <div class="mb3">
-    <h4 class="f6 mb3 b lh-title tc">Please select a date, a room type and your email before clicking enquire.</h4>
+    <h4 class="f6 mb3 b lh-title tc">Please select arrival date, room type and your email before clicking enquire.</h4>
   
      <!-- A little help for the Netlify post-processing bots -->
      <form name="contact" netlify netlify-honeypot="bot-field" hidden>
@@ -15,9 +15,11 @@
       <div class="flex-l mhn1-l">
         <div class="ph2-l w-40-l mb2">
           <input type="date" required name="date" placeholder="date">
+          <label for="date">Arrival date</label>
         </div>
         <div class="w-40-l mb2">
-          <input list="roomtype"required name="roomtype" placeholder="room type">
+          <input list="roomtype"required name="roomtype" placeholder="Room type">
+          <label for="roomtype">Room type</label>
           <datalist id="roomtype">
             <option value="Single room">
             <option value="Double room">
@@ -25,9 +27,9 @@
           </datalist>
         </div>
       </div>
-      <div class="flex-l mhn1-l">
-        <div class="ph2-l w-100-l mb2">
-          <input type="email" required  name="email" placeholder="email">
+      <div class="flex-l mhn1-l mb2">
+        <div class="ph2-l w-80-l">
+          <input type="email" required  name="email" placeholder="Email">
         </div>
       </div>
 
